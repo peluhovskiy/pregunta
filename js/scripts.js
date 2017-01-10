@@ -63,7 +63,7 @@ window.onload = function(){
 	function seeYou() {
 		document.getElementById("vars").innerHTML = "";
 		document.getElementById("vars").innerHTML = "<h2>До зустрічі, найцінніший госте!</h2><h2>See you soon, the most precious guest!</h2>";
-		setTimeout(startScreen, 1000);
+		setTimeout(startScreen, 5000);
 	}
 
 	startScreen();
