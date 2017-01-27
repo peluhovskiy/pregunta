@@ -123,5 +123,41 @@
     "var2": "Марія Приймаченко / Maria Prymachenko",
     "var3": "Квітка-Цісик / Kvitka-Tsisik",
     "answer": 3
-  }
+  },
+  "question15": {
+    "pic": "nefertiti",
+    "questUA": "Чий це бюст і де він зберігається?",
+    "questEN": "Whose bust is it and where it stands?",
+    "var1": "Поетеса Сапфо, Лесбос / Sapho Poetess, Lesbos",
+    "var2": "Цариця Нефертіті, Берлін / Queen Nefertiti, Berlin",
+    "var3": "Философ Гипатия, Афіни / Hypatia Philosopher, Athenes",
+    "answer": 2
+  },
+  "question16": {
+    "pic": "opium",
+    "questUA": "Хто і проти кого воював в ході Опіумних війн?",
+    "questEN": "What countries were involved in Opium Wars?",
+    "var1": "Об'єднане королівство та Імперія Цин / United Kingdon and Qing Empire",
+    "var2": "Франція і Індія / France & India",
+    "var3": "США та Китай / USA and China",
+    "answer": 1
+  },
+  "question17": {
+    "pic": "bosch",
+    "questUA": "Хто є автором триптиху 'Сад земних наслолод'?",
+    "questEN": "Who is the author of 'The Garden of Earthly Delights' triptych?",
+    "var1": "Пітер Брейгель Старший / Peter Breugel Senior",
+    "var2": "Пітер Брейгель Молодший / Peter Breugel Junior",
+    "var3": "Ієронім Босх / Hieronymus Bosch",
+    "answer": 3
+  },
+  "question18": {
+    "pic": "koonsdog",
+    "questUA": "Хто є автором цього витвору мистецтва?",
+    "questEN": "Who is the author of this peace of art?",
+    "var1": "Джеф Кунс / Jeff Koons",
+    "var2": "Енді Уорхол / Andy Warhol",
+    "var3": "Рой Ліхтенштейн / Roy Lichtenstein",
+    "answer": 1
+  } 
 }
