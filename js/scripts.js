@@ -28,7 +28,7 @@ window.onload = function(){
 	function ask(base){
 		document.getElementById("vars").innerHTML = "<div id='var1' class='var_look'></div><div id='var2' class='var_look'></div><div id='var3' class='var_look'></div>";
 		var questions = JSON.parse(base);
-		var baseLenght = 15;
+		var baseLenght = 18;
 		var randQ = Math.floor(Math.random() * (baseLenght - 1)) + 1;
 		document.getElementById("pic").setAttribute("src", "img/" + questions["question" + randQ].pic + ".jpg");
 		document.getElementById("var" + questions["question" + randQ].answer).setAttribute("alt", "correct");
