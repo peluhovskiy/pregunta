@@ -222,5 +222,32 @@
     "var2": "Ендрю Вайет / Andrew Wyeth",
     "var3": "Іпполіт Ліпинський / Hipolit Lipinski",
     "answer": 2
+  },
+  "question26": {
+    "pic": "baskia",
+    "questUA": "Якому художнику належить цей витвір?",
+    "questEN": "Who is the author of this painting?",
+    "var1": "Кіт Хардінг / Keith Haring",
+    "var2": "Жан-Мішель Баскія / Jean-Michel Basquiat",
+    "var3": "Енді Уорхол / Andy Warhal",
+    "answer": 2
+  },
+  "question27": {
+    "pic": "solzhenicin",
+    "questUA": "Який радянський дисидент написав 'Архіпелаг ГУЛАГ'?",
+    "questEN": "Who of Soviet writers has written 'The Gulag Archipelago'?",
+    "var1": "Алєксандр Солженіцин / Alexandr Solzhenitsin",
+    "var2": "Андрєй Сахаров / Andrey Sakharov",
+    "var3": "Василь Стус / Vasyl Stus",
+    "answer": 1
+  },
+  "question28": {
+    "pic": "gulag",
+    "questUA": "Який радянський дисидент написав 'Архіпелаг ГУЛАГ'?",
+    "questEN": "Who of Soviet writers has written 'The Gulag Archipelago'?",
+    "var1": "Алєксандр Солженіцин / Alexandr Solzhenitsin",
+    "var2": "Андрєй Сахаров / Andrey Sakharov",
+    "var3": "Василь Стус / Vasyl Stus",
+    "answer": 1
   }
 }
