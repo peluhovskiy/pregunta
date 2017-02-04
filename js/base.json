@@ -159,5 +159,68 @@
     "var2": "Енді Уорхол / Andy Warhol",
     "var3": "Рой Ліхтенштейн / Roy Lichtenstein",
     "answer": 1
-  } 
+  },
+  "question19": {
+    "pic": "geese",
+    "questUA": "Яке місто, згідно легенди, врятували гуси?",
+    "questEN": "What city according to the legend was saved by geese?",
+    "var1": "Париж / Paris",
+    "var2": "Рим / Rome",
+    "var3": "Гданськ / Gdansk",
+    "answer": 2
+  },
+  "question20": {
+    "pic": "bickford",
+    "questUA": "Хто винайшов вогнепровідний шнур?",
+    "questEN": "Who was the inventor of the fuse?",
+    "var1": "Джанні Кардано / Gianni Cardano",
+    "var2": "Джеймс Ватт / James Watt",
+    "var3": "Вільям Бікфорд / William Bickford",
+    "answer": 3
+  },
+  "question21": {
+    "pic": "klein",
+    "questUA": "Як називається ця посудина?",
+    "questEN": "What is the name of this vessel?",
+    "var1": "Ваза Кляйна / Klein's Bottle",
+    "var2": "Колба Ерленмейєра / Erlenmeyer flask",
+    "var3": "Колба Бунзена / William Bickford",
+    "answer": 1
+  },
+  "question22": {
+    "pic": "patriarch",
+    "questUA": "Який з цих творів написав Габріель Гарсіа Маркес?",
+    "questEN": "Which of these was written by Gabriel Garcia Marquez?",
+    "var1": "Ім'я троянди / The Name of the Rose",
+    "var2": "Осінь патріарха / The Autumn of the Patriarch",
+    "var3": "Заїр / The Zahir",
+    "answer": 2
+  },
+  "question23": {
+    "pic": "theyouth",
+    "questUA": "Кадр з якого фільму Паоло Сорентіно зображено на фото?",
+    "questEN": "The shot from what film of Paolo Sorrentino is depicted here?",
+    "var1": "Велика краса / The Great Beauty",
+    "var2": "Молодий папа / The Young Pope",
+    "var3": "Молодість / The Youth",
+    "answer": 3
+  },
+  "question24": {
+    "pic": "huxley",
+    "questUA": "Автором якого терміну є Олдос Гакслі?",
+    "questEN": "The author of what term was Aldous Huxley?",
+    "var1": "утопія / utopia",
+    "var2": "клаустрофобія / claustrophobia",
+    "var3": "психоделія / psychodelia",
+    "answer": 3
+  },
+  "question25": {
+    "pic": "wyeth",
+    "questUA": "Хто є автором картини 'По течії'?",
+    "questEN": "Who is the author of the painting named 'Along the Flow'?",
+    "var1": "Теодор Руссо / Theodore Rousseau",
+    "var2": "Ендрю Вайет / Andrew Wyeth",
+    "var3": "Іпполіт Ліпинський / Hipolit Lipinski",
+    "answer": 2
+  }
 }
