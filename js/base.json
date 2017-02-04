@@ -249,5 +249,32 @@
     "var2": "Андрєй Сахаров / Andrey Sakharov",
     "var3": "Василь Стус / Vasyl Stus",
     "answer": 1
+  },
+  "question29": {
+    "pic": "kyivsubway",
+    "questUA": "Скільки станцій у київському метрополітені?",
+    "questEN": "How many stations are there in Kyiv Subway?",
+    "var1": "46",
+    "var2": "48",
+    "var3": "52",
+    "answer": 3
+  },
+  "question30": {
+    "pic": "kyivsubway",
+    "questUA": "Скільки станцій у київському метрополітені?",
+    "questEN": "How many stations are there in Kyiv Subway?",
+    "var1": "46",
+    "var2": "48",
+    "var3": "52",
+    "answer": 3
+  },
+  "question31": {
+    "pic": "holland",
+    "questUA": "Купці якої країни вперше завезли паросток кави до Південної Америки?",
+    "questEN": "Traders from what country delivered first coffee sprout to the South America?",
+    "var1": "Нідерланди / Netherlands",
+    "var2": "Іспанія / Spain",
+    "var3": "Португалія / Portugal",
+    "answer": 1
   }
 }
