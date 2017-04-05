@@ -1,0 +1,70 @@
+html {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+  line-height: 1.42857143;
+}
+
+h1 {
+	margin: 0px;
+	padding: 20px;
+	font-size: 3em;
+	text-align: center;
+	color: #FFF;
+	background: #000;
+}
+
+h2 {
+	margin: 0px;
+	padding: 0px;
+	padding-top: 80px;
+	text-align: center;
+	color: #FFF;
+}
+
+#main_container {
+	width: 1024px;
+	height: 500px;
+	margin-top: 20px;
+	border: 1px solid black;
+}
+
+#quest_area {
+	width: 1024px;
+	height: 300px;
+	padding: 0px;
+	background-color: #000;
+}
+
+#vars {
+	width: 1024px;
+	height: 200px;
+	padding: 0px;
+	background: #555;
+}
+
+#var1 {
+	background: rgb(211, 139, 71);
+}
+
+#var2 {
+	background: rgb(211, 167, 71);
+}
+
+#var4 {
+	background: rgb(59, 79, 143);
+}
+
+.var_look {
+ margin: 0px;
+ padding: 20px 0px;
+ font-size: 1.3em;
+ font-weight: normal;
+ color: white;
+ text-align: center;
+}
+
+.welcome {
+	padding-top: 100px;
+}
