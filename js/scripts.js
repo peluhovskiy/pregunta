@@ -23,7 +23,7 @@ window.onload = function(){
 	function ask(base){
 		document.getElementById("vars").innerHTML = "<div id='var1' class='var_look'></div><div id='var2' class='var_look'></div><div id='var3' class='var_look'></div>";
 		var questions = JSON.parse(base);
-		var baseLenght = 20;
+		var baseLenght = 25;
 		var randQ = Math.floor(Math.random() * (baseLenght - 1)) + 1;
 		document.getElementById("quest_area").removeAttribute("class");
 		document.getElementById("quest_area").innerHTML = "<h1>" + questions["question" + randQ].quest + "</h1>";
